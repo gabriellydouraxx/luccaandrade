@@ -1,5 +1,10 @@
 @import url("stlyles/header.css");
-
+:robot{
+--fonte-principal: "poppings";
+}
 body{
     background-color: aquamarine;
+    font-family: var(--fonte-principal);
+    font-size:16px;
+    font-weight: 400;
 }

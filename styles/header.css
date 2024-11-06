@@ -36,6 +36,7 @@
 }
 .lista-menu__titulo{
     color:aliceblue
+    font-weight:black
 }
 .lista-menu__link{
     background: rgb (20,20,20)
@@ -43,3 +44,7 @@
     background-clip: text;
     text-transform: uppercase}
 
+.container__botao{
+display:none;
+
+}
