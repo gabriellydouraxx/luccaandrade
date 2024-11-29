@@ -23,8 +23,8 @@
 .lista-menu{
     display: none;
     position: absolute;
-    top: 100%
-    width: 60vw
+    top: 100%;
+    width: 60vw;
 }
 .container__botao:checked~.lista-menu{
     display: block;
@@ -35,12 +35,12 @@
     background-color:white
 }
 .lista-menu__titulo{
-    color:aliceblue
-    font-weight:black
+    color:aliceblue;
+    font-weight:black;
 }
 .lista-menu__link{
-    background: rgb (20,20,20)
-    -webkit-background-clip:text;
+    background: rgb (20,20,20);
+    -webkit-background-clip: text;
     background-clip: text;
     text-transform: uppercase}
 
